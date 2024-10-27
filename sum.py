@@ -5,3 +5,5 @@ def sum():
     return add
 out = sum()
 print(out)
+
+print("HI")
