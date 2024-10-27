@@ -6,4 +6,3 @@ def sum():
 out = sum()
 print(out)
 
-print("HI")
